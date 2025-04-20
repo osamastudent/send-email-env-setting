@@ -1,0 +1,30 @@
+
+# MAIL_MAILER=smtp
+# MAIL_HOST=mailpit
+# MAIL_PORT=1025
+# MAIL_USERNAME=null
+# MAIL_PASSWORD=null
+# MAIL_ENCRYPTION=null
+# MAIL_FROM_ADDRESS="hello@example.com"
+# MAIL_FROM_NAME="${APP_NAME}"
+
+
+# forgot password
+MAIL_MAILER=smtp
+MAIL_HOST=sandbox.smtp.mailtrap.io
+MAIL_PORT=2525
+MAIL_USERNAME=3e4c3a0a7276ab
+MAIL_PASSWORD=9aa73c1e2ea3e7
+MAIL_ENCRYPTION=tls
+MAIL_FROM_ADDRESS="affanjanab@example.com"
+MAIL_FROM_NAME="${APP_NAME}"
+
+# forgot on email password
+# MAIL_MAILER=smtp
+# MAIL_HOST=smtp.gmail.com
+# MAIL_PORT=587
+# MAIL_USERNAME=osamajanab9999@gmail.com
+# MAIL_PASSWORD=ylmrksiyximemzeo
+# MAIL_ENCRYPTION=tls
+# MAIL_FROM_ADDRESS="osamajanab9999@example.com"
+# MAIL_FROM_NAME="${APP_NAME}"
